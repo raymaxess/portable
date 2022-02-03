@@ -85,7 +85,6 @@ class Search extends CI_Controller {
               ';
     }
 
-
     $output .= '</table>';
 
     return $output;
